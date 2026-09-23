@@ -18,10 +18,19 @@ from django.urls import include, path
 from django.contrib import admin
 from django.urls import path
 
+from materials.apps import MaterialsConfig
 from users.apps import UsersConfig
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    # path(
+    #     f"",
+    #     include(f"{MaterialsConfig.name}.urls", namespace=f"{MaterialsConfig.name}"),
+    # ),
+    path(
+        f"",
+        include(f"{MaterialsConfig.name}.urls", namespace=f"{MaterialsConfig.name}"),
+    ),
     path(
         f"{UsersConfig.name}/",
         include(f"{UsersConfig.name}.urls", namespace=f"{UsersConfig.name}"),
