@@ -1,0 +1,29 @@
+[
+{
+    "model": "materials.course",
+    "pk": 1,
+    "fields": {
+        "title": "Primary education",
+        "preview": "couse/images_2_ErC91P4.jpg",
+        "description": "Acquiring basic knowledge in general subjects"
+    }
+},
+{
+    "model": "materials.course",
+    "pk": 2,
+    "fields": {
+        "title": "Secondary education",
+        "preview": "couse/images_1_qqPqpd8.jpg",
+        "description": "Acquiring knowledge in specialized disciplines"
+    }
+},
+{
+    "model": "materials.course",
+    "pk": 3,
+    "fields": {
+        "title": "Higher education",
+        "preview": "couse/images_KjMOpl9.jpg",
+        "description": "Bachelor's, Master's, and Postgraduate (PhD) studies"
+    }
+}
+]

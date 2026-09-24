@@ -1,0 +1,123 @@
+[
+{
+    "model": "materials.lesson",
+    "pk": 1,
+    "fields": {
+        "title": "Основы чтения и письма",
+        "description": "Изучение букв, слогов и первых слов. Формирование навыков чтения простых текстов и написания букв и коротких предложений.",
+        "preview": "",
+        "video_link": "",
+        "course": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 2,
+    "fields": {
+        "title": "Базовая математика",
+        "description": "Знакомство с числами, счётом, сложением и вычитанием в пределах 100. Основы геометрии: фигуры, сравнение размеров.",
+        "preview": "",
+        "video_link": "https://www.google.com/search?q=%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&sca_esv=4ef347e5cd8f3683&udm=2&biw=950&bih=913&sxsrf=APpeQntg_aUxqQ2JlmEWdOUjzd6_j7SE8Q%3A1790179207107&ei=h_ezatiEBv2nwPAPyPm66Ac&ved=2ahUKEwiY5OSdiYWXAxX9ExAIHci8Dn0Q4dUDegQIBhAN&uact=5&oq=%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&gs_lp=Egtnd3Mtd2l6LWltZyIp0J3QsNGH0LDQu9GM0L3QvtC1INC-0LHRgNCw0LfQvtCy0LDQvdC40LUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESJojUJMSWJMScAJ4AJABAJgBfKABfKoBAzAuMbgBA8gBAPgBAfgBApgCAqACkQGoAgrCAgoQIxjJAhjqAhgnmAMKiAYBkgcDMS4xoAe0CLIHAzAuMbgHhwHCBwMzLTLIBxKACAE&sclient=gws-wiz-img",
+        "course": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 3,
+    "fields": {
+        "title": "Окружающий мир",
+        "description": "Первые знания о природе, временах года, животных и растениях. Знакомство с правилами безопасности и основами общения.",
+        "preview": "",
+        "video_link": "https://www.google.com/search?q=%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&sca_esv=4ef347e5cd8f3683&udm=2&biw=950&bih=913&sxsrf=APpeQntg_aUxqQ2JlmEWdOUjzd6_j7SE8Q%3A1790179207107&ei=h_ezatiEBv2nwPAPyPm66Ac&ved=2ahUKEwiY5OSdiYWXAxX9ExAIHci8Dn0Q4dUDegQIBhAN&uact=5&oq=%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&gs_lp=Egtnd3Mtd2l6LWltZyIp0J3QsNGH0LDQu9GM0L3QvtC1INC-0LHRgNCw0LfQvtCy0LDQvdC40LUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESJojUJMSWJMScAJ4AJABAJgBfKABfKoBAzAuMbgBA8gBAPgBAfgBApgCAqACkQGoAgrCAgoQIxjJAhjqAhgnmAMKiAYBkgcDMS4xoAe0CLIHAzAuMbgHhwHCBwMzLTLIBxKACAE&sclient=gws-wiz-img",
+        "course": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 4,
+    "fields": {
+        "title": "Алгебра и геометрия",
+        "description": "Изучение уравнений, функций и геометрических теорем. Развитие логического и абстрактного мышления через решение задач.",
+        "preview": "",
+        "video_link": "https://www.google.com/search?q=%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&sca_esv=4ef347e5cd8f3683&udm=2&biw=950&bih=913&sxsrf=APpeQntg_aUxqQ2JlmEWdOUjzd6_j7SE8Q%3A1790179207107&ei=h_ezatiEBv2nwPAPyPm66Ac&ved=2ahUKEwiY5OSdiYWXAxX9ExAIHci8Dn0Q4dUDegQIBhAN&uact=5&oq=%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&gs_lp=Egtnd3Mtd2l6LWltZyIp0J3QsNGH0LDQu9GM0L3QvtC1INC-0LHRgNCw0LfQvtCy0LDQvdC40LUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESJojUJMSWJMScAJ4AJABAJgBfKABfKoBAzAuMbgBA8gBAPgBAfgBApgCAqACkQGoAgrCAgoQIxjJAhjqAhgnmAMKiAYBkgcDMS4xoAe0CLIHAzAuMbgHhwHCBwMzLTLIBxKACAE&sclient=gws-wiz-img",
+        "course": 2
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 5,
+    "fields": {
+        "title": "Физика: основы механики",
+        "description": "Законы Ньютона, движение тел, сила и энергия. Практические эксперименты для понимания физических явлений.",
+        "preview": "",
+        "video_link": "",
+        "course": 2
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 6,
+    "fields": {
+        "title": "Литература и анализ текста",
+        "description": "Чтение классических произведений, анализ сюжета, персонажей и стиля. Развитие навыков написания сочинений и аргументации.",
+        "preview": "",
+        "video_link": "",
+        "course": 2
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 7,
+    "fields": {
+        "title": "Академическое письмо и исследование",
+        "description": "Методология научного исследования, работа с источниками, структура академической статьи и правила цитирования.",
+        "preview": "",
+        "video_link": "",
+        "course": 3
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 8,
+    "fields": {
+        "title": "Программирование",
+        "description": "Углублённое изучение профильных предметов в зависимости от выбранной специальности.",
+        "preview": "",
+        "video_link": "",
+        "course": 3
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 9,
+    "fields": {
+        "title": "Подготовка дипломной работы",
+        "description": "Выбор темы, постановка гипотезы, проведение исследования и защита диссертации перед комиссией.",
+        "preview": "",
+        "video_link": "",
+        "course": 3
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 10,
+    "fields": {
+        "title": "Физическая культура",
+        "description": "Футболл, Волейболл",
+        "preview": "",
+        "video_link": "",
+        "course": 1
+    }
+},
+{
+    "model": "materials.lesson",
+    "pk": 11,
+    "fields": {
+        "title": "Физическая культура",
+        "description": "Футболл, Волейболл",
+        "preview": "",
+        "video_link": "",
+        "course": 2
+    }
+}
+]

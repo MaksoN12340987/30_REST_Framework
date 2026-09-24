@@ -2,6 +2,7 @@ import logging
 import os
 from pathlib import Path
 
+from materials.apps import MaterialsConfig
 from users.apps import UsersConfig
 
 logger_views_setings = logging.getLogger(__name__)
@@ -48,6 +49,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "rest_framework",
     f"{UsersConfig.name}",
+    f"{MaterialsConfig.name}",
 ]
 
 MIDDLEWARE = [
